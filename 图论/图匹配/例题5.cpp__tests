@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"2\n10\n28"
+		],
+		"test": "2 2\n.m\nH.\n5 5\nHH..m\n.....\n.....\n.....\nmm..H\n7 8\n...H....\n...H....\n...H....\nmmmHmmmm\n...H....\n...H....\n...H....\n0 0\n"
+	}
+]
